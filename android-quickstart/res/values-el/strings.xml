@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maven Android Γρήγορη Εκκίνηση</string>
+    <string name="edit_message">Εισάγετε ένα μήμνυμα</string>
+    <string name="button_send">Αποστολή</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
